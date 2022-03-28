@@ -12,7 +12,7 @@ A detailed model description is presented in Rastetter et al, 2021. The Balanced
 ### Publications 
 Rastetter, EB, GW Kling, GR Shaver, BC Crump, L Gough, and KL Griffin. 2021. Ecosystem recovery form disturbance is constrained by N cycle openness, vegetation-soil distribution, form of N losses, and the balance between vegetation and soil-microbial processes. Ecosystems 24:667-685. https://doi.org/10.1007/s10021-020-00542-3.
 
-Rastetter, E. 2020. Model output, drivers and parameters for Ecosystem Recovery from Disturbance is Constrained by N Cycle Openness, Vegetation-Soil N Distribution, Form of N Losses, and the Balance Between Vegetation and Soil-Microbial Processes ver 1. Environmental Data Initiative. https://doi.org/10.6073/pasta/0af82d3c3d9d1710775cf9b1464ce70b (Accessed 2020-09-17).
+Rastetter, E. 2020. Model output, drivers and parameters for Ecosystem Recovery from Disturbance is Constrained by N Cycle Openness, Vegetation-Soil N Distribution, Form of N Losses, and the Balance Between Vegetation and Soil-Microbial Processes ver 1. Environmental Data Initiative. https://doi.org/10.6073/pasta/0af82d3c3d9d1710775cf9b1464ce70b.
 
 --------------------------------------------------------------------------
 ### Code Instructions 
